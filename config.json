@@ -1,0 +1,15 @@
+{
+  "agent": {
+    "name": "Agent-Chad",
+    "version": "2.0.0"
+  },
+  "skills": {
+    "load": {
+      "extraDirs": ["dgclaw-skill"]
+    }
+  },
+  "storage": {
+    "type": "local",
+    "path": "./storage"
+  }
+}
